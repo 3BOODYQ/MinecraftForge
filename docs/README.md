@@ -40,6 +40,7 @@ We require the version of Java that Minecraft requires, which is currently:
 | 1.18 - 1.20.4 | [17][Adoptium-17] |
 | 1.17.1        | [16][Adoptium-16] |
 | 1.16.5-       | [8][Adoptium-8]   |
+| 1.21.5        | [21][Adoptium-18]  |
 
 **If you are on Windows and have difficulty using Java to launch JAR files, consider using [Jarfix by Johann Löfflmann][Jarfix].**
 
